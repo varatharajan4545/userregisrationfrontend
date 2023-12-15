@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@400;500&display=swap');
+
+.error {
+  color: red;
+  justify-content: flex-start;
+}
+
+.submit-btn {
+  font-family: 'Chivo', sans-serif;
+  margin-top: 2px;
+  height: 36px;
+  width: 182px;
+  border-radius: 4px;
+  background: rgb(255, 91, 0);
+  color: rgba(255, 255, 255, 1);
+  padding: 5px;
+}
+
+.submit-btn:hover {
+  background: rgba(255, 89, 0, 0.6);
+  color: rgb(255, 255, 255);
+}
+
+
+.input-label {
+  font-family: 'Chivo', sans-serif;
+  font-style: medium;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  margin-bottom: 16px;
+}
+
+.input-field {
+  border-radius: 4px;
+}
+
+
